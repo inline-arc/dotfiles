@@ -1,0 +1,7 @@
+[user]
+	email = atharvmore20@gmail.com
+	name = inline-arc
+[push]
+	default = current
+[init]
+	defaultBranch = main
