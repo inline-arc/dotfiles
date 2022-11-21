@@ -4,18 +4,18 @@ RIP laptop backup
 
 - [x] ./             
 - [ ] .config/    
-- [ ] .gitconfig 
+- [x] .gitconfig 
 - [ ] projects/  
-- [ ] .xscreensaver
+- [x] .xscreensaver
 - [ ] ../          
-- [ ] conky.conf 
+- [x] conky.conf 
 - [ ] greber/   
-- [ ] .ssh/
-- [ ] .bash_history 
-- [ ] .conkyrc   
+- [x] .ssh/
+- [x] .bash_history 
+- [x] .conkyrc   
 - [ ] .local/   
-- [ ] .viminfo
-- [ ] .bashrc 
-- [ ] .git/      
+- [x] .viminfo
+- [x] .bashrc 
+- [x] .git/      
 - [ ] loot.txt  
 - [ ] .vscode/
