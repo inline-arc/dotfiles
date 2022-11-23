@@ -13,9 +13,9 @@ RIP laptop backup
 - [x] .ssh/
 - [x] .bash_history 
 - [x] .conkyrc   
-- [ ] .local/   
+- [x] .local/   
 - [x] .viminfo
 - [x] .bashrc 
 - [x] .git/      
-- [ ] loot.txt  
-- [ ] .vscode/
+- [x] loot.txt  
+- [x] .vscode/
