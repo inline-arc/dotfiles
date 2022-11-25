@@ -9,7 +9,7 @@ RIP laptop backup
 - [x] .xscreensaver
 - [ ] ../          
 - [x] conky.conf 
-- [ ] greber/   
+- [x] greber/   
 - [x] .ssh/
 - [x] .bash_history 
 - [x] .conkyrc   
