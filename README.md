@@ -3,11 +3,11 @@ RIP laptop backup
 
 
 - [x] ./             
-- [ ] .config/    
+- [x] .config/    
 - [x] .gitconfig 
-- [ ] projects/  
+- [x] projects/  
 - [x] .xscreensaver
-- [ ] ../          
+- [x] ../          
 - [x] conky.conf 
 - [x] greber/   
 - [x] .ssh/
